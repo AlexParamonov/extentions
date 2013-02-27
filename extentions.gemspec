@@ -8,8 +8,8 @@ Gem::Specification.new do |gem|
   gem.version       = Extentions::VERSION
   gem.authors       = ["Alexander Paramonov"]
   gem.email         = ["alexander.n.paramonov@gmail.com"]
-  gem.summary       = %q{[name reserved]Plug functionality to the application}
-  gem.description   = %q{[name reserved]Allows to create an isolated functionality and plug it into the application}
+  gem.summary       = %q{Plug functionality to the application}
+  gem.description   = %q{Allows to create an isolated functionality and plug it into the application}
   gem.homepage      = "http://github.com/AlexParamonov/extentions"
 
   gem.files         = `git ls-files`.split($/)
