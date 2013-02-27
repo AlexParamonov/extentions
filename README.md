@@ -1,6 +1,6 @@
 Extentions
 ==========
-[![Build Status](https://secure.travis-ci.org/AlexParamonov/extentions.png)](http://travis-ci.org/AlexParamonov/extentions)
+[![Build Status](https://travis-ci.org/AlexParamonov/extentions.png?branch=master)](http://travis-ci.org/AlexParamonov/extentions)
 [![Gemnasium Build Status](https://gemnasium.com/AlexParamonov/extentions.png)](http://gemnasium.com/AlexParamonov/extentions)  
 
 Allows to create an isolated functionality and plug it into the application
