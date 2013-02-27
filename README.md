@@ -60,5 +60,5 @@ Contributing
 
 Copyright
 ---------
-Copyright © 2012 Alexander Paramonov.
+Copyright © 2013 Alexander Paramonov.
 Released under the MIT License. See the LICENSE file for further details.

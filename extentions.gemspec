@@ -11,9 +11,10 @@ Gem::Specification.new do |gem|
   gem.summary       = %q{Plug functionality to the application}
   gem.description   = %q{Allows to create an isolated functionality and plug it into the application}
   gem.homepage      = "http://github.com/AlexParamonov/extentions"
+  gem.license       = "MIT"
 
   gem.files         = `git ls-files`.split($/)
-  gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
+  gem.executables   = gem.files.grep(%r{^bin/}) { |f| File.basename(f) }
   gem.test_files    = gem.files.grep(%r{^(test|spec|features)/})
   gem.require_paths = ["lib"]
 
